@@ -1,0 +1,2 @@
+# After training the model
+model.save('models/best_model.h5')
